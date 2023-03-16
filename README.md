@@ -1,7 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/krobus00/krobus00/blob/master/assets/wave.gif?raw=true" height="30">, I'm Aldi Maulana</h1>
 <h3 align="center">Fresh-graduate software engineering with internship experience as a web developer. Web developer using with HTML, CSS, and JavaScript. To secure a web developer position that utilizes my expertise in Node.js, software development, and database technology to develop and implement program for web applications.</h3>
+
 - 💬 Ask me about **Node.js and PHP**
+
 - 📫 How to reach me **aldimaul0706@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aldi-maulana-910334238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aldi-maulana-910334238/" height="30" width="40" /></a>
