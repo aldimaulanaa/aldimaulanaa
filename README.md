@@ -17,6 +17,6 @@
 
 ### My Github Stats
 
-[![Aldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alramdein&count_private=true&show_icons=true&theme=tokyonight)]
+[![Aldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldimaulanaa&count_private=true&show_icons=true&theme=tokyonight)]
 
   
