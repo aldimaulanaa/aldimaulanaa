@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://github.com/krobus00/krobus00/blob/master/assets/wave.gif?raw=true" height="30">, I'm Aldi Maulana</h1>
+<h3 align="center">Fresh-graduate software engineering with internship experience as a web developer. Web developer using with HTML, CSS, and JavaScript. To secure a web developer position that utilizes my expertise in Node.js, software development, and database technology to develop and implement program for web applications.</h3>
+- 💬 Ask me about **Node.js and PHP**
+- 📫 How to reach me **aldimaul0706@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aldi-maulana-910334238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aldi-maulana-910334238/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8027411/aldi-maulana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10377640/alramdein" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aldi.maulanaa_/?next=%2Faldi.maulanaa_%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ramdains/?hl=id" height="30" width="40" /></a>
+</p>
 
-<!--
-**aldimaulanaa/aldimaulanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Github Stats
+
+[![Aldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alramdein&count_private=true&show_icons=true&theme=tokyonight)]
+
+  
