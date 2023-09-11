@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/krobus00/krobus00/blob/master/assets/wave.gif?raw=true" height="30">, I'm Aldi Maulana</h1>
-<h3 align="justify">Enthusiatic Software Engineer for 2+ years experience. Primarily using Reactjs and Nodejs. I've experienced in building large scale distributed system with high maintainability and scalability.
+<h3 align="justify">Enthusiatic Software Engineer for 1+ years experience. Primarily using Reactjs and Nodejs. I've experienced in building large scale distributed system with high maintainability and scalability.
 
 - 💬 Ask me about **Reactjs and node.js**
 
