@@ -16,7 +16,7 @@
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php)
-![](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+![](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react.js)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js)
 
 ### My Github Stats
