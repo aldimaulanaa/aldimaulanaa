@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/krobus00/krobus00/blob/master/assets/wave.gif?raw=true" height="30">, I'm Aldi Maulana</h1>
-<h3 align="justify">Enthusiatic Software Engineer for 2+ years experience. Primarily using Reactjs and Nodejs. I've experienced in building large scale distributed system with high maintainability and scalability.
+<h3 align="justify">An experienced IT professional specializing in software development with a primary expertise in PHP and JavaScript programming languages. Possesses a strong knowledge of web development, object-oriented programming, and database management. Capable of working independently or in a team, with excellent communication skills and a high-quality work ethic.
 
 - 💬 Ask me about **React Js and Express Js**
 
